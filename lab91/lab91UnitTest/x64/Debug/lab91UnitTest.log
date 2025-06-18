@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  lab91UnitTest.cpp
+C:\Users\lumro\Downloads\repos\lab91\lab91\lab91.cpp(91,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/lab91UnitTest.cpp')
+  
+C:\Users\lumro\Downloads\repos\lab91\lab91\lab91.cpp(196,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/lab91UnitTest.cpp')
+  

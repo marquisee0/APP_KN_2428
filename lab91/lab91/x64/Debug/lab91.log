@@ -1,0 +1,4 @@
+﻿  lab91.cpp
+C:\Users\vozny\source\repos\lab91\lab91\lab91.cpp(91,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vozny\source\repos\lab91\lab91\lab91.cpp(196,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab91.vcxproj -> C:\Users\vozny\source\repos\lab91\x64\Debug\lab91.exe
