@@ -1,0 +1,9 @@
+﻿  lab71UnitTest.cpp
+C:\Users\vozny\source\repos\lab71\lab71\lab71.cpp(68,13): warning C4566: character represented by universal-character-name '\u2191' cannot be represented in the current code page (1251)
+  (compiling source file '/lab71UnitTest.cpp')
+  
+C:\Users\vozny\source\repos\lab71\lab71\lab71.cpp(68,13): warning C4566: character represented by universal-character-name '\u2193' cannot be represented in the current code page (1251)
+  (compiling source file '/lab71UnitTest.cpp')
+  
+     Creating library C:\Users\vozny\source\repos\lab71\x64\Debug\lab71UnitTest.lib and object C:\Users\vozny\source\repos\lab71\x64\Debug\lab71UnitTest.exp
+  lab71UnitTest.vcxproj -> C:\Users\vozny\source\repos\lab71\x64\Debug\lab71UnitTest.dll
